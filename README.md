@@ -31,9 +31,9 @@
 <p align="center">
 	
 
-<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=MahmoudAbuelazm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="Mahmoud Abuelazm's GitHub Stats"  />
+<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api?username=omniaashraf8088&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&hide=contribs,issues&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=false&order=2&include_all_commits=true&show=prs_merged,prs_merged_percentage" height="180" alt="Mahmoud Abuelazm's GitHub Stats"  />
  
-<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api/top-langs?username=MahmoudAbuelazm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2"  height="180"  alt="languages graph"  />
+<img src="https://github-readme-stats-mahmoud-ahmeds-projects-742326f6.vercel.app/api/top-langs?username=omniaashraf8088&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=false&order=2"  height="180"  alt="languages graph"  />
 </div>
 
 
@@ -44,11 +44,11 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MahmoudAbuelazm&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=omniaashraf8088&locale=en&mode=daily&theme=great-gatsby&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MahmoudAbuelazm.MahmoudAbuelazm&"  />
-  <img src="https://profile-counter.glitch.me/MahmoudAbuelazm/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=omniaashraf8088.omniaashraf8088&"  />
+  <img src="https://profile-counter.glitch.me/omniaashraf8088/count.svg?"  />
   
 </div>
