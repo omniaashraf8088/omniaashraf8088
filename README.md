@@ -63,5 +63,5 @@
 
 ## GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=omniaashraf8088&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=omniaashraf8088&theme=kimbie_dark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
 </p>
