@@ -1,5 +1,4 @@
-[(![WhatsApp Image 2024-12-20 at 22 04 47_2b79facf](https://github.com/user-attachments/assets/9a5901c7-0ed6-4f1e-9ba7-a97a4a3f0370)
-)](https://rishavchanda.io)
+[([WhatsApp Image 2024-12-20 at 22 12 10_a452d6d7](https://github.com/user-attachments/assets/e3db4b68-5815-440b-82af-6ac5a7845888))](https://rishavchanda.io)
 <h1 align="center" align="left">Hi,I'm Omnia Ashraf<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=987554&size=25&center=true&vCenter=true&width=600&height=100&lines=Always+learning+new+things;Junior+Flutter+Developer"></a>
