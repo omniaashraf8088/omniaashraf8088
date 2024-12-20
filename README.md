@@ -1,4 +1,4 @@
-[![MasterHead](![WhatsApp Image 2024-12-20 at 22 04 47_96acf125](https://github.com/user-attachments/assets/b17b172c-512c-45ea-851a-3736d095033d)
+[(![WhatsApp Image 2024-12-20 at 22 04 47_96acf125](https://github.com/user-attachments/assets/b17b172c-512c-45ea-851a-3736d095033d)
 )](https://rishavchanda.io)
 <h1 align="center" align="left">Hi,I'm Omnia Ashraf<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
