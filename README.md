@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center" style="font-family: 'Dancing Script', cursive;">Hi, I'm Omnia Ashraf<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></h1>
+<h1 align="center" style="font-family: 'Dancing Script', cursive;">Hi, I'm Omnia Ashraf <img  src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"></h1>
 
 
 <p align="center">
