@@ -1,4 +1,7 @@
-![MasterHead](https://www.fabmood.com/wp-content/uploads/2022/01/brown-aesthetic-3.jpg)
+<p align="center">
+  <img src="https://piktochart.com/wp-content/uploads/2023/05/large-157-600x338.jpg" alt="MasterHead">
+</p>
+
 
 <h1 align="center" align="left">Hi,I'm Omnia Ashraf<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
