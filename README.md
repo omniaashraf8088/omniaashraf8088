@@ -1,4 +1,5 @@
-[![MasterHead](https://www.webskittersacademy.in/wp-content/uploads/2022/04/Flutter-with-Dart-banner.png)](https://rishavchanda.io)
+[![MasterHead](![WhatsApp Image 2024-12-20 at 22 04 47_96acf125](https://github.com/user-attachments/assets/b17b172c-512c-45ea-851a-3736d095033d)
+)](https://rishavchanda.io)
 <h1 align="center" align="left">Hi,I'm Omnia Ashraf<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=987554&size=25&center=true&vCenter=true&width=600&height=100&lines=Always+learning+new+things;Junior+Flutter+Developer"></a>
