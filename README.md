@@ -1,12 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Omnia%20Ashraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Engineer&descAlignY=55&descSize=18" width="100%"/>
-</p>p>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Flutter+Developer+%7C+Cross-Platform+Engineer;Building+Scalable+Mobile+Applications;Clean+Architecture+%26+State+Management;7%2B+Production+Apps+%7C+Open+to+Remote+Work" alt="Typing SVG" />
-  </a>a>
-</p>p>
+  </a>
+</p>
 
 ---
 
