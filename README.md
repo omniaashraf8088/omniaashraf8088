@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://piktochart.com/wp-content/uploads/2023/05/large-157-600x338.jpg" alt="MasterHead">
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Omnia%20Ashraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </p>p>
 
