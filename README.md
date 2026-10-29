@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Omnia%20Ashraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Cross-Platform%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Omnia%20Ashraf&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20Flutter%20Developer%20%7C%20Mobile%20App%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Flutter+Developer+%7C+Cross-Platform+Engineer;Building+Scalable+Mobile+Applications;Clean+Architecture+%26+State+Management;7%2B+Production+Apps+%7C+Open+to+Remote+Work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Freelance+Flutter+Developer;Mobile+App+Engineer+(iOS+%26+Android);Clean+Architecture+%26+Firebase;Available+for+Worldwide+Remote+Contracts" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,18 +13,19 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 ```yaml
-name: Omnia Ashraf Abdel Moneim
-role: Flutter Developer
-education: Faculty of Computers & Informatics — MUST University
-location: Giza, Egypt 🇪🇬
-open_to: Remote opportunities worldwide 🌍
+name: Omnia Ashraf Abdel Moneim (أمنية أشرف)
+role: Freelance Flutter Developer & Mobile App Engineer
+specialization: Cross-Platform iOS & Android Apps · Clean Architecture · Firebase & REST APIs
+education: Misr University for Science and Technology (MUST)
+location: Cairo, Egypt 🇪🇬
+open_to: Freelance Contracts & Remote Opportunities Worldwide 🌍
 ```
 
-- 🔭 Building **cross-platform applications** with Flutter (Android, iOS, Web)
-- 🏗️ Focused on **Clean Architecture**, scalable state management, and production-ready code
-- 📱 **7+ applications** shipped across multiple platforms
-- ✍️ Writing technical articles on [Medium](https://medium.com/@omnia52481019)
-- 🌐 Check out my [Portfolio](https://omniaashraf8088.github.io/OmniaAshraf-Portofrioo/)
+- 📱 Specializing in **cross-platform mobile apps** with Flutter & Dart for **iOS & Android**
+- 🏗️ Strong focus on **Clean Architecture**, predictable state management (BLoC, Riverpod, Provider), and production-grade code
+- 🚀 **7+ production applications** shipped with real-time backends (Firebase, REST APIs)
+- ✍️ Author of in-depth software engineering articles on [Medium](https://medium.com/@omnia52481019)
+- 🌐 Explore my live interactive [Portfolio & Projects](https://omniaashraf8088.github.io/OmniaAshraf-Portofrioo/)
 
 ---
 
@@ -40,11 +41,11 @@ open_to: Remote opportunities worldwide 🌍
 
 | Category | Technologies |
 |----------|-------------|
-| **Mobile** | Flutter · Dart · Android (Native) · iOS (Swift) |
+| **Mobile** | Flutter · Dart · Android (Native) · iOS (Swift) · Cross-Platform |
 | **State Management** | BLoC / Cubit · Provider · Riverpod · GetX |
-| **Backend & APIs** | Firebase · RESTful APIs · Node.js · Express · MongoDB |
+| **Backend & APIs** | Firebase (Firestore, Auth, Cloud Functions) · RESTful APIs · Node.js · Express · MongoDB |
 | **Frontend & Web** | Angular · TypeScript · HTML / CSS |
-| **Design & Tools** | Figma · Adobe XD · Git & GitHub · Clean Architecture |
+| **Architecture & Tools** | Clean Architecture · Git & GitHub · Figma · Adobe XD |
 
 </details>
 
@@ -121,11 +122,15 @@ GPS-based local services discovery app with Firebase backend, map integration, a
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/omnia-ashraff"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/omnia-ashraff/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://omniaashraf8088.github.io/OmniaAshraf-Portofrioo/"><img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://medium.com/@omnia52481019"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="mailto:omniaashraf8088@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/message/KBKG2WZ5ZQNRO1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://x.com/omnia52481019"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/omnia52481019/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@omniaashraf-handcode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://medium.com/@omnia52481019"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01a7a6ef452160e83c"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="mailto:omniaashraf8088@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
